@@ -1,7 +1,7 @@
-<img src="./assets/header.jpg" alt="Фоновое изображение" style="border-radius: 10px">
+<img src="./assets/header.jpg" alt="Фоновое изображение" border-radius="5px">
 
 ## Всем привет! 👋
-*Меня зовут Леша. Я веб-разработчик.*
+*Меня зовут Леша. Я веб-разработчик. Начал заниматься веб-разработкой год назад. До этого интересовался машинным обучением, анализом данных, математикой и проходил небольшие курсы на (Coursera)[https://www.coursera.org/] и (Stepik)[https://welcome.stepik.org/ru]. Сейчас же мне очень интересна сфера разработки сайтов. Интересна она во многом благодаря наглядным результатам своей работы и задачам, которые могут встретится по пути.*
 
 ## 📌 Несколько фактов обо мне
 - 🧑‍🎓 Учусь в [НТГМК](http://www.ntgmk.ru/) на 4-ом курсе по специальности «Программирование в компьютерных системах»
@@ -17,14 +17,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/webpack-original.svg" alt="Webpack" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/figma-original.svg" alt="Figma" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/visualstudiocode-original.svg" alt="Visual Studio Code" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" alt="Visual Studio Code" width="40" height="40" />
 </p>
+<br>
 
 ## 📬 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexey_lavrinenkov)
