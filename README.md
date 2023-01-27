@@ -1,16 +1,16 @@
-### Hi there 👋
+Заголовок
 
-<!--
-**alexeylavrinenkov/alexeylavrinenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне
 
-Here are some ideas to get you started:
+⚡️Несколько быстрых фактов
+📚Сейчас я читаю «Чистый код» Роберта С. Мартина.
+🎯
+📝Я иногда пишу статьи на Medium
+📺Я сейчас смотрю мистера робота
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Технологии, с которыми я работал:
+JavaScript Андроид Реагировать Джава Машинопись Быстрый Питон Угловой С С++ CSS Докер Выражать Гит Грейдл Героку HTML5 JQuery линукс MongoDB MySQL NodeJS НПМ php Вью
+
+😎 Связаться со мной:
+
+Статистика
